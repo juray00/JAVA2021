@@ -395,7 +395,7 @@
 									"font": "Arial;13;0",
 									"left": 287.5,
 									"top": 100.5,
-									"width": 112.578125,
+									"width": 112,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF2/PGeBNDWocw="
@@ -594,7 +594,7 @@
 									"font": "Arial;13;0",
 									"left": 210.5,
 									"top": 236.5,
-									"width": 89.498046875,
+									"width": 89,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF2/PHRZdEEuck="
@@ -793,7 +793,7 @@
 									"font": "Arial;13;0",
 									"left": 172.5,
 									"top": 324.5,
-									"width": 137.1435546875,
+									"width": 136,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF2/PH8HdEzNgA="
@@ -992,7 +992,7 @@
 									"font": "Arial;13;0",
 									"left": 201.5,
 									"top": 452.5,
-									"width": 122.72802734375,
+									"width": 122,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF2/PIgPNFhbpQ="
@@ -1191,7 +1191,7 @@
 									"font": "Arial;13;0",
 									"left": 403,
 									"top": 276.5,
-									"width": 91.6435546875,
+									"width": 91,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF2/PJEWtGPXds="
@@ -4674,7 +4674,8 @@
 								"$ref": "AAAAAAF2/QryPtoim1w="
 							},
 							"name": "id",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -4683,7 +4684,8 @@
 								"$ref": "AAAAAAF2/QryPtoim1w="
 							},
 							"name": "libelle",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						}
 					]
 				},
@@ -4702,7 +4704,8 @@
 								"$ref": "AAAAAAF2/QyFWdpjNZU="
 							},
 							"name": "id",
-							"visibility": "protected"
+							"visibility": "protected",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -4711,7 +4714,8 @@
 								"$ref": "AAAAAAF2/QyFWdpjNZU="
 							},
 							"name": "nomComplet",
-							"visibility": "protected"
+							"visibility": "protected",
+							"type": ""
 						}
 					]
 				},
@@ -4745,7 +4749,8 @@
 								"$ref": "AAAAAAF2/RPxFdqfhGM="
 							},
 							"name": "tuteur",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						}
 					]
 				},
@@ -4779,7 +4784,8 @@
 								"$ref": "AAAAAAF2/RUJHtrZXrk="
 							},
 							"name": "modules",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -4788,7 +4794,8 @@
 								"$ref": "AAAAAAF2/RUJHtrZXrk="
 							},
 							"name": "grade",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						}
 					]
 				},
@@ -4968,7 +4975,8 @@
 								"$ref": "AAAAAAF2/ZvbbOBKJ1M="
 							},
 							"name": "modules",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -4977,7 +4985,8 @@
 								"$ref": "AAAAAAF2/ZvbbOBKJ1M="
 							},
 							"name": "annee",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						}
 					]
 				}
